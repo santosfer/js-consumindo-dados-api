@@ -24,7 +24,7 @@ O programa desenvolve é um programa gratuito de formação e inclusão de talen
 ![](./img/screenshot.jpg)
 
 ### Links
- - Site URL: [Vá para o site](https://santosfer.github.io/ja-consumindo-dados-api/)
+ - Site URL: [Vá para o site](https://santosfer.github.io/js-consumindo-dados-api/)
 
  ## Meu processo
 
