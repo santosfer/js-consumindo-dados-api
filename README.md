@@ -33,7 +33,7 @@ O programa desenvolve é um programa gratuito de formação e inclusão de talen
  - Javascript;
  - HTML5
 
- ### O que eu aprendi
+ ### O que aprendi
 
 Nesse projeto utilizamos a API ViaCEP para quando o usuário digitar CEP no campo pedido, ele ja preencha os campos de nome da rua, bairro, cidade e estado. Foi possível entender como funciona as funções assincronas e colocar em prática através de dois métodos: 
 
